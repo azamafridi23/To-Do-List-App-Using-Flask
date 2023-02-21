@@ -4,7 +4,8 @@
 This is a simple To Do List App made using flask, html, css and jinja templating for flask.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App<img width="958" alt="pic1" src="https://user-images.githubusercontent.com/108652143/220400063-bd183cb3-913e-4e8d-9327-5c191825aaab.png">
++Screenshot+Here)
 
 
 ## Features
